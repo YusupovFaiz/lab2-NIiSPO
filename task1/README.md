@@ -7,10 +7,5 @@
 \- \*\*worker2\*\*: находит max в `/var/data/data.txt` → сохраняет его квадрат в `/var/result/result.txt`
 
 
-
-Ссылка на отчёт: \[]
-
-
-
 Запуск: `docker compose up --build`
 
